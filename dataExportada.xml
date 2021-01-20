@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+	<DPELUCHES>
+		<registro>
+			<codigo>1</codigo>
+			<ruc>1727337501001</ruc>
+			<cedula>1727337501</cedula>
+			<nombre>Xavier</nombre>
+			<apellido>Calle</apellido>
+			<fecha>2021-01-20</fecha>
+			<telefono>0981230929</telefono>
+			<direccion>El Condado</direccion>
+			<cantidad>4</cantidad>
+			<detalle>Peluches para regalar</detalle>
+			<formaPago>Efectivo</formaPago>
+			<total>50</total>
+		</registro>
+	</DPELUCHES>
