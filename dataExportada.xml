@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 	<DPELUCHES>
 		<registro>
-			<codigo>SRI3635</codigo>
-			<ruc>1727337501001</ruc>
-			<cedula>1727337501</cedula>
-			<nombre>Xavier</nombre>
-			<apellido>Calle</apellido>
-			<telefono>0981230929</telefono>
-			<direccion>El Condado</direccion>
-			<cantidad>4</cantidad>
-			<detalle>Peluches para regalar</detalle>
-			<formaPago>Efectivo</formaPago>
-			<total>50</total>
-			<dia>20</dia>
-			<mes>Enero</mes>
-			<anio>2021</anio>
-		</registro>
+        		<codigo>SRI3635</codigo>
+        		<ruc>1727337501001</ruc>
+        		<cedula>1727337501</cedula>
+        		<nombre>Xavier  Calle  Avila</nombre>
+        		<apellido>Calle</apellido>
+        		<telefono>0981230929</telefono>
+        		<direccion>El Condado</direccion>
+        		<cantidad>4</cantidad>
+        		<detalle>Peluches para regalar</detalle>
+        		<formaPago>Efectivo</formaPago>
+        		<total>50</total>
+        		<dia>20</dia>
+        		<mes>enero</mes>
+        		<anio>2021</anio>
+    		</registro>
 	</DPELUCHES>
 
